@@ -61,20 +61,20 @@ li a {
   text-decoration: none;
 }
 
-dt {
-  color: black;
-  font-family: 'Open Sans',sans-serif;
-  font-weight: 200;
-  text-decoration: underline;
-  font-size: 15px;
-}
-
 dl {
   color: black;
   font-family: 'Open Sans',sans-serif;
   font-weight: 200;
   text-decoration: none;
   line-height: 1.5;
+  font-size: 15px;
+}
+
+dt {
+  color: black;
+  font-family: 'Open Sans',sans-serif;
+  font-weight: 200;
+  text-decoration: underline;
   font-size: 15px;
 }
 
